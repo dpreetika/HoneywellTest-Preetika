@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\DateTimeZoneConversion\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Administrator\source\repos\DateTimeZoneConversion\Sorting\bin\Debug\Sorting.exe
+C:\Users\Administrator\source\repos\DateTimeZoneConversion\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Administrator\source\repos\DateTimeZoneConversion\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DateTimeZoneConversion\Sorting\obj\Debug\Sorting.exe
+C:\Users\Administrator\source\repos\DateTimeZoneConversion\Sorting\obj\Debug\Sorting.pdb
